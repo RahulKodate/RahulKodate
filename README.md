@@ -31,15 +31,20 @@ Experienced software engineer with a Master's degree in Information Systems and 
   University of Mumbai, Mumbai, MH, India  
   May 2018
 
-## Technical Skills
-- **Front-end Development:** React, Angular, NodeJS
-- **Programming Languages:** JavaScript/NodeJS, Python, Java, C++
-- **AWS Technologies:** Familiarity with AWS services and frameworks
-- **Problem Solving:** Ability to identify and develop software solutions for business problems
-- **Collaboration:** Effective team player, participating in daily scrums and reviews with development teams
-- **Documentation:** Skilled in creating design documentation and leading reviews with other engineers
-- **Testing and Integration:** Experience in writing code, unit tests, and integrating code with software components
-- **Customer Interaction:** Strong interpersonal skills, incorporating customer feedback and testing software prototypes
+ ## Technical Skills
+ 
+- **Front-end Development:** React, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+)
+- **Back-end Development:** Node.js, Python (Django, Flask), Java (Spring Boot), C++, PHP, ASP.NET, Ruby on Rails
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Data Analysis:** SQL, R, Tableau, Python (Pandas, NumPy) 
+- **Frameworks & Libraries:** Express.js, Django, Flask, Spring Boot
+- **Big Data:** Hadoop, Spark
+- **Cloud Technologies:** AWS (EC2, S3, Lambda, CloudFormation), Microsoft Azure, Google Cloud Platform
+- **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI/CD
+- **Version Control:** Git, SVN
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn
+- **Mobile Development:** React Native, Flutter
+- **Agile Methodologies:** Scrum, Kanban
 
 ## Professional Experience
 **Senior Software Development Engineer (Full-time)**

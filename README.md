@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Rahul Ashok Kodate
 
-📞 Boston, MA | 📧 kodate.ra@northeastern.edu | 💼 [LinkedIn](https://www.linkedin.com/rahulkodate) | 🐙 [GitHub](https://www.github.com/RahulKodate)
+📞 Boston, MA | 📧 kodate.ra@northeastern.edu | 💼 [LinkedIn](www.linkedin.com/in/rahulkodate) | 🐙 [GitHub](https://www.github.com/RahulKodate)
 
 ## Summary
 Experienced software engineer with a Master's degree in Information Systems and a Bachelor's degree in Instrumentation Engineering. Proficient in application engineering, web design, data science, and database design. Achieved significant results at Vibrant Corporation, including groundbreaking software architecture resulting in improved response times and cost savings. Collaborated with cross-functional teams and mentored junior members to drive productivity. Demonstrated expertise in optimizing performance, resolving technical issues, and delivering high-quality products using Agile methodologies.

@@ -64,7 +64,7 @@ June 2018 – May 2020
 - 🔄 Employed Agile methodologies to streamline the development process of complex software systems and applications, delivering a consistently high-quality product on time and under budget.
 
 ## Academic Projects
-**Datadine**
+**Datadine: Online Food Ordering Management System**
 Northeastern University, Boston, MA, USA  
 Jan 2023 – May 2023
 
@@ -72,7 +72,7 @@ Jan 2023 – May 2023
 - 🛠️ Developed a robust data architecture and implemented column data encryption and strict compliance with data protection regulations, resulting in streamlined data storage and retrieval, enhanced data analysis capabilities, and improved system performance.
 - 📈 Excelled in data visualization by leveraging Tableau to develop interactive dashboards and reports, providing critical insights into business operations and facilitating data-driven decision-making.
 
-**Foodlicious**
+**Foodlicious: Online Food Ordering and Blogging Website**
 Northeastern University, Boston, MA, USA  
 Jan 2023 – May 2023
 
@@ -80,7 +80,7 @@ Jan 2023 – May 2023
 - 📝 Designed and built user and admin dashboards, allowing efficient management of users, products, and orders, while ensuring secure user authentication and integration with a common payment gateway (Stripe).
 - 🚀 Leveraged technologies such as React for the frontend, Node.js and Express.js for the backend, and MongoDB for the database, while following best practices to ensure scalability, performance, and a seamless user experience.
 
-**The Economics of Happiness**
+**HappinessEcon-Insights: The Economics of Happiness**
 Northeastern University, Boston, MA, USA  
 Sept 2022 – Dec 2022
 
@@ -88,7 +88,7 @@ Sept 2022 – Dec 2022
 - 🔍 Evaluated the influence of different threshold values on model performance and the significance of predictor variables.
 - 📊 Conducted in-depth statistical analysis to identify the optimal threshold for classifying Happy Score (Ordinal Values) as "Happy" or "Sad" using various mathematical measures, such as mean, median, harmonic mean, and geometric mean, ultimately enhancing the accuracy and interpretability of the predictive model.
 
-**Disaster Management Network**
+**DisasterResilienceUSA: Disaster Management Network (DMN)**
 Northeastern University, Boston, MA, USA  
 Sept 2022 – Dec 2022
 

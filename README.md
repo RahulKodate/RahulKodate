@@ -25,7 +25,8 @@ Experienced software engineer with a Master's degree in Information Systems and 
 ## Education
 - **Master of Science in Information Systems**  
   Northeastern University, Boston, MA, USA  
-  Anticipated May 2024
+  Anticipated May 2024 <br><br>
+**Relevant Coursework:** Application Engineering and Development, Web Design and User Experience Engineering, Data Science Engineering Methods and Tools, Data Management and Database Design
 
 - **Bachelor of Engineering in Instrumentation Engineering**  
   University of Mumbai, Mumbai, MH, India  

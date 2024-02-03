@@ -25,7 +25,7 @@ Experienced software engineer with a Master's degree in Information Systems and 
 ## Education
 - **Master of Science in Information Systems**  
   Northeastern University, Boston, MA, USA
-  Anticipated May 2024 <br><br>
+  Anticipated May 2024, GPA: 3.52 <br><br>
 **Relevant Coursework:** Application Engineering and Development, Web Design and User Experience Engineering, Data Science Engineering Methods and Tools, Data Management and Database Design, Career Management for Engineers, User Experience Design and Testing, Managerial Communications for Engineers
 
 - **Bachelor of Engineering in Instrumentation Engineering**  
@@ -95,4 +95,4 @@ Sept 2022 – Dec 2022
 
 - 🌍 Implemented a comprehensive disaster management network in the United States of America, bringing together governmental and non-governmental organizations to enhance disaster preparedness and response capabilities at the city level.
 - 👥 Facilitated stakeholder engagement and collaboration through the DMN project, ensuring the involvement of relevant parties and target groups to address specific disaster risks and climate change effects unique to the United States.
-- 🎯 Aligned project objectives with the governance framework, focusing on activities that support priorities such as understanding disaster risk, strengthening disaster risk governance, and enhancing disaster preparedness through partnerships, collaboration, and the development of operational mechanisms.
+- 🎯 Aligned project objectives with the governance framework, focusing

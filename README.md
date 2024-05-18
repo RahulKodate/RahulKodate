@@ -25,7 +25,7 @@ Experienced software engineer with a Master's degree in Information Systems and 
 ## Education
 - **Master of Science in Information Systems**  
   Northeastern University, Boston, MA, USA<br>
-  Anticipated May 2024, GPA: 3.52 <br><br>
+  May 2024, GPA: 3.60 <br><br>
 **Relevant Coursework:** Application Engineering and Development, Web Design and User Experience Engineering, Data Science Engineering Methods and Tools, Data Management and Database Design, Career Management for Engineers, User Experience Design and Testing, Managerial Communications for Engineers
 
 - **Bachelor of Engineering in Instrumentation Engineering**  

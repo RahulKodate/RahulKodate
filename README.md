@@ -1,11 +1,17 @@
 # Hi, I'm Rahul Ashok Kodate! 👋
 
-![Boston](https://github.com/user-attachments/assets/8fddb438-ae78-4bb7-9229-9357d380bd0a)
-*Boston, Massachusetts*  
+![Header Image](https://github.com/user-attachments/assets/5192316d-6134-44b8-87ba-35f8a1741044)
 
-[kodate.ra@northeastern.edu](mailto:kodate.ra@northeastern.edu) | (617) 971-6509  
+<img src="https://github.com/user-attachments/assets/5c4d18f6-d136-43cc-a78e-94838adf12cb" alt="Bear Brown logo" width="500" height="150" align="right">
+
+*Based in Boston, Massachusetts*  
+
+[![Email](https://img.shields.io/badge/Email-kodate.ra%40northeastern.edu-blue?style=flat&logo=gmail)](mailto:kodate.ra@northeastern.edu)  
+
+[![Phone](https://img.shields.io/badge/Phone-(617)%20971--6509-blue?style=flat&logo=phone)](tel:+16179716509) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulkodate-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulkodate/)
+
 
 ---
 

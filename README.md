@@ -8,7 +8,7 @@
 ---
 
 ## Summary
-Strategic and results-driven Technical Program Manager with over 6 years of diverse experience in software engineering, project management, and cross-functional team leadership. Proven track record of driving significant performance improvements and operational efficiencies through innovative solutions and effective project management methodologies. Adept at fostering collaboration among stakeholders, enhancing communication, and ensuring timely project delivery. Demonstrated expertise in utilizing Agile, Scrum, and Kanban methodologies to streamline processes and boost productivity. Strong technical acumen with proficiency in Java, Python, C++, cloud platforms, and various project management tools. Committed to leveraging extensive technical knowledge and leadership skills to deliver high-quality software solutions and drive organizational success.
+Strategic and results-driven Technical Program Manager with over six years of experience in software engineering, project management, and cross-functional team leadership. Demonstrated expertise in utilizing Agile, Scrum, and Kanban methodologies to streamline processes and boost productivity. Strong technical acumen with proficiency in Java, Python, C++, cloud platforms, and various project management tools.
 
 ## Certifications and Key Skills
   

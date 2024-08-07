@@ -102,14 +102,13 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 - Designed and conceptualized Twitter-like features using Figma, creating wireframes and prototypes that balanced innovation with the familiar Amazon user experience.
 - Utilized Figma to develop wireframes and prototypes for new features, ensuring a seamless integration of innovative elements while preserving the core identity of the Amazon app.
-<br>
+<br><br>
 
 ### [UniGlide Campus Mobility Solution](https://github.com/RahulKodate/UniGlide-Campus-Mobility-Solution)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/4e6922d4-a0ad-4f68-9542-2101a012a2d3" align="left">
 
 - Led strategic vendor analysis and negotiations for acquiring and maintaining a fleet of 150 e-scooters, resulting in a successful launch and generating over $80,000 in revenue within the first year of operation.
 - Developed and implemented comprehensive financial projections and funding strategies, securing initial investment and managing a budget to support expansion and operational growth.
-<br>
 <br>
 
 ### [FoodLicious: Online Food Ordering and Blogging Website](https://github.com/RahulKodate/FoodLicious)

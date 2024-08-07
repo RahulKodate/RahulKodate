@@ -1,11 +1,9 @@
 # Rahul Ashok Kodate
 
-![Profile Image](path_to_your_image.png)
-
 **Boston, Massachusetts**  
 [kodate.ra@northeastern.edu](mailto:kodate.ra@northeastern.edu)  
 (617) - 971-6509  
-[LinkedIn](https://www.linkedin.com/in/yourprofile)
+[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rahulkodate/))
 
 ---
 
@@ -109,4 +107,4 @@ Strategic and results-driven Technical Program Manager with over 6 years of dive
 **Email:** kodate.ra@northeastern.edu  
 **Phone:** (617) 971-6509
 
-![Footer Image](path_to_another_image.png)
+

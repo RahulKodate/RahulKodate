@@ -92,41 +92,52 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 <br>
 
 ### [Apartment Finder: A Comprehensive Platform for Streamlined Rental Processes](https://github.com/RahulKodate/Apartment-Finder-A-Comprehensive-Platform-for-Streamlined-Rental-Processes)
-<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/d8e4c63a-1ff6-417a-80c5-e2c9cad13ec3" align="left">
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/16e249a3-b80c-4122-8d5c-ec30cf8d3167" align="left">
 
 - Developed and executed a comprehensive business plan for "Apartment Finder," integrating advanced technology solutions like real-time updates, secure payment gateways, and sophisticated search filters to enhance the apartment rental process.
 - Led the design and implementation of a user-friendly platform that consolidated diverse listings, streamlined communication channels, and ensured data security, resulting in a more efficient and transparent rental experience for users.
 
-
 ### [AmazonSocial: Seamless Integration of Twitter-like Features](https://github.com/RahulKodate/AmazonSocial-Seamless-Integration-of-Twitter-like-Features)
-![Social Media](https://source.unsplash.com/random/100x100?social-media)
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/7132117e-8249-4010-80c6-92011c547030" align="left">
+
 - Designed and conceptualized Twitter-like features using Figma, creating wireframes and prototypes that balanced innovation with the familiar Amazon user experience.
 - Utilized Figma to develop wireframes and prototypes for new features, ensuring a seamless integration of innovative elements while preserving the core identity of the Amazon app.
+<br>
 
 ### [UniGlide Campus Mobility Solution](https://github.com/RahulKodate/UniGlide-Campus-Mobility-Solution)
-![Mobility](https://source.unsplash.com/random/100x100?mobility)
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/4e6922d4-a0ad-4f68-9542-2101a012a2d3" align="left">
+
 - Led strategic vendor analysis and negotiations for acquiring and maintaining a fleet of 150 e-scooters, resulting in a successful launch and generating over $80,000 in revenue within the first year of operation.
 - Developed and implemented comprehensive financial projections and funding strategies, securing initial investment and managing a budget to support expansion and operational growth.
+<br>
 
 ### [FoodLicious: Online Food Ordering and Blogging Website](https://github.com/RahulKodate/FoodLicious)
-![Food](https://source.unsplash.com/random/100x100?food)
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/0b244110-0254-49e3-9add-e1c3678234ba" align="left">
+
 - Engineered an online food ordering system using React, Node.js, Express.js, and MongoDB to streamline the ordering process for users. Achieved a significant reduction in order processing time by 30%, enhancing overall user satisfaction.
 - Architected and implemented user and admin dashboards to efficiently manage users, products, and orders. Ensured secure authentication and seamless integration with a common payment gateway.
+<br>
 
 ### [Datadine: Online Food Ordering Management System](https://github.com/RahulKodate/DATADINE)
-![Restaurant](https://source.unsplash.com/random/100x100?restaurant)
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/db64594e-c9ed-48fc-bfa3-1348f592da15" align="left">
+
 - Engineered a cutting-edge restaurant management system by employing advanced SQL techniques, which optimized database performance and implemented top-tier security measures.
 - Developed a robust data architecture that efficiently handled high volumes of data, streamlining restaurant operations and improving the overall dining experience.
+<br>
 
 ### [HappinessEcon-Insights: The Economics of Happiness](https://github.com/RahulKodate/HappinessEcon-Insights)
-![Economics](https://source.unsplash.com/random/100x100?economics)
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/ba459930-c5ff-4240-9f4f-a2631a1779c0" align="left">
+
 - Spearheaded the design and implementation of a data visualization dashboard to analyze the economic impact of happiness indices. Successfully integrated multiple data sources and provided actionable insights to stakeholders.
 - Conducted in-depth research and statistical analysis, resulting in the publication of findings in a reputed journal, contributing to the academic understanding of the economics of happiness.
+<br>
 
 ### [DisasterResilienceUSA: Disaster Management Network](https://github.com/RahulKodate/DisasterResilienceUSA)
-![Disaster Management](https://source.unsplash.com/random/100x100?disaster)
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/760df3d6-9975-449c-97ca-710afd2293cf" align="left">
+
 - Developed an innovative disaster management network by leveraging IoT and blockchain technology. Improved communication and coordination among emergency responders, reducing response time by 20%.
 - Implemented real-time data analytics and machine learning algorithms to predict disaster patterns and optimize resource allocation, enhancing overall disaster resilience.
+<br>
 
 ---
 

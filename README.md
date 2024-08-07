@@ -41,7 +41,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 ### Northeastern University, Residential Security Office, USA (Aug 2023 – May 2024)
 **Student Technical Program Coordinator RSO**  
-![Northeastern University](<img width="219" alt="image" src="https://github.com/user-attachments/assets/c52f9cf7-5f5e-4d6b-83f5-6b34c527b8cd">)
+![Northeastern University](https://github.com/user-attachments/assets/c52f9cf7-5f5e-4d6b-83f5-6b34c527b8cd>)
 
 - Streamlined incident documentation by meticulously maintaining dispatch logs and Excel sheets, resulting in a 40% improvement in response times to security issues.
 - Optimized document sharing and team collaboration by leveraging SharePoint, leading to a 30% increase in team efficiency and communication.

@@ -71,9 +71,6 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 **Northeastern University, USA**  
 *Master of Science in Information Systems* (Sept 2022 – May 2024)
 
-<div style="clear: both;"></div>
-
-
 ![University of Mumbai](https://source.unsplash.com/random/100x100?university)  
 **University of Mumbai, India**  
 *Bachelor of Engineering in Instrumentation Engineering* (Aug 2014 – May 2018)

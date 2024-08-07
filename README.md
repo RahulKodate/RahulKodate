@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/5c4d18f6-d136-43cc-a78e-94838adf12cb" alt="Bear Brown logo" width="500" height="150" align="right">
 
-*Based in Boston, Massachusetts*  
+*Based in [Boston, Massachusetts](https://g.co/kgs/etTQ98e)*  
 
 [![Email](https://img.shields.io/badge/Email-kodate.ra%40northeastern.edu-blue?style=flat&logo=gmail)](mailto:kodate.ra@northeastern.edu)  
 

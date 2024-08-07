@@ -30,7 +30,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 ### Bear Brown and Company, USA (Jul 2024 – Present)
 **Software Engineer and Team Lead**  
-<img src="https://github.com/user-attachments/assets/36123e56-42ec-4e39-b4b2-c8bc9cdc9eea" alt="Bear Brown logo" width="150" height="150" align="left">
+<img src="https://github.com/user-attachments/assets/6108e809-cb1f-4e05-bc9f-be06c9f59d05" alt="Bear Brown logo" width="150" height="150" align="left">
 
 - Spearheaded the development and implementation of a new project management methodology, resulting in a 20% decrease in project delivery times and a 15% increase in project completion rates.
 - Implemented an advanced monitoring and reporting system for software development projects, which improved transparency and accountability, leading to a 35% improvement in on-time project delivery.

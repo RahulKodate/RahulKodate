@@ -26,8 +26,8 @@ Strategic and results-driven Technical Program Manager with over six years of ex
 - Led a cross-functional team of 15 engineers to redesign the company's flagship product, which improved system performance by 30% and increased user satisfaction scores by 25%.
 
 
-### Northeastern University, Residential Security Office, USA                                	  	     	 
-**Student Technical Progam Coordinator RSO (Aug 2023 – May 2024)**
+### Northeastern University, Residential Security Office, USA (Aug 2023 – May 2024)                                	  	     	 
+**Student Technical Progam Coordinator RSO**
 - Streamlined incident documentation by meticulously maintaining dispatch logs and Excel sheets, resulting in a 40% improvement in response times to security issues.
 - Optimized document sharing and team collaboration by leveraging SharePoint, leading to a 30% increase in team efficiency and communication and fostering a more cohesive work environment.
 - Collaborated with Northeastern Police (NUPD), Residential Life, and university staff to streamline communication and response procedures, improving incident resolution times by 25% and fostering a safer campus environment.
@@ -60,31 +60,31 @@ Strategic and results-driven Technical Program Manager with over six years of ex
 - Facilitated a simulated Sprint Planning meeting by leading backlog prioritization, story point assignment, and sprint velocity assessment, resulting in a well-organized sprint plan that enhanced team alignment and readiness for execution.
 - Implemented a Kanban board to display information radiators, improving team visibility, transparency, and accountability during the sprint planning process, which led to more efficient tracking and management of tasks.
 
-### Apartment Finder: A Comprehensive Platform for Streamlined Rental Processes (Jan 2024 – May 2024)
+### [Apartment Finder: A Comprehensive Platform for Streamlined Rental Processes (Jan 2024 – May 2024)](https://github.com/RahulKodate/Apartment-Finder-A-Comprehensive-Platform-for-Streamlined-Rental-Processes)
 - Developed and executed a comprehensive business plan for "Apartment Finder," integrating advanced technology solutions like real-time updates, secure payment gateways, and sophisticated search filters to enhance the apartment rental process.
 - Led the design and implementation of a user-friendly platform that consolidated diverse listings, streamlined communication channels, and ensured data security, resulting in a more efficient and transparent rental experience for users.
 
-### AmazonSocial: Seamless Integration of Twitter-like Features (Sep 2023 – Dec 2023)
+### [AmazonSocial: Seamless Integration of Twitter-like Features (Sep 2023 – Dec 2023)](https://github.com/RahulKodate/AmazonSocial-Seamless-Integration-of-Twitter-like-Features)
 - Addressed the challenge of Twitter's instability by initiating a strategic initiative to enhance user engagement on the Amazon app. Designed and conceptualized Twitter-like features using Figma, creating wireframes and prototypes that balanced innovation with the familiar Amazon user experience.
 - Utilized Figma to develop wireframes and prototypes for new features, ensuring a seamless integration of innovative elements while preserving the core identity of the Amazon app. Facilitated a smooth user experience that enhanced app functionality and user satisfaction.
 
-### UniGlide Campus Mobility Solution (Sep 2023 – Dec 2023)
+### [UniGlide Campus Mobility Solution (Sep 2023 – Dec 2023)](https://github.com/RahulKodate/UniGlide-Campus-Mobility-Solution)
 - Led strategic vendor analysis and negotiations for acquiring and maintaining a fleet of 150 e-scooters, resulting in a successful launch and generating over $80,000 in revenue within the first year of operation.
 - Developed and implemented comprehensive financial projections and funding strategies, securing initial investment and managing a budget to support expansion and operational growth, contributing to a projected revenue increase of $1.25 million by 2024.
 
-### FoodLicious: Online Food Ordering and Blogging Website (Jan 2023 – May 2023)
+### [FoodLicious: Online Food Ordering and Blogging Website (Jan 2023 – May 2023)](https://github.com/RahulKodate/FoodLicious)
 - Engineered an online food ordering system using React, Node.js, Express.js, and MongoDB to address the challenge of streamlining the ordering process for users. Achieved a significant reduction in order processing time by 30%, enhancing overall user satisfaction.
 - Architected and implemented user and admin dashboards to efficiently manage users, products, and orders. Ensured secure authentication and seamless integration with a common payment gateway, leading to a 40% improvement in management efficiency and a decrease in security incidents by 20%.
 
-### Datadine: Online Food Ordering Management System (Jan 2023 – May 2023)
+### [Datadine: Online Food Ordering Management System (Jan 2023 – May 2023)](https://github.com/RahulKodate/DATADINE)
 - Engineered a cutting-edge restaurant management system by employing advanced SQL techniques, which optimized database performance and implemented top-tier security measures, enhancing overall operational efficiency and data protection.
 - Developed a robust data architecture that streamlined data storage and enhanced analysis capabilities, resulting in improved system performance and providing actionable insights for business decision-making.
 
-### HappinessEcon-Insights: The Economics of Happiness (Sept 2022 – Dec 2022)
+### [HappinessEcon-Insights: The Economics of Happiness (Sept 2022 – Dec 2022)](https://github.com/RahulKodate/HappinessEcon-Insights)
 - Analyzed the Happy Score classification model, identifying areas for improvement through rigorous mathematical analysis; enhanced the model's accuracy and interpretability by 20%, leading to more reliable predictions.
 - Conducted an in-depth statistical analysis to evaluate threshold values and predictor variables; improved decision-making processes by providing meaningful insights, resulting in a 15% increase in predictive accuracy.
 
-### DisasterResilienceUSA: Disaster Management Network (Sept 2022 – Dec 2022)
+### [DisasterResilienceUSA: Disaster Management Network (Sept 2022 – Dec 2022)](https://github.com/RahulKodate/DisasterResilienceUSA)
 - Enhanced disaster preparedness and response capabilities by developing a comprehensive database using MySQL and Node.js, facilitating efficient data storage and retrieval, which significantly improved response times by 30% during critical situations.
 - Utilized data visualization tools to generate interactive and insightful reports, empowering stakeholders with actionable insights for better decision-making and resource allocation, resulting in a more effective disaster management network.
 

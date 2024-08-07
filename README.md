@@ -49,11 +49,13 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 ### Vibrant Corporation, India
 **Senior Software Engineer (Jun 2020 – Aug 2022)**  
-![Vibrant Corporation](https://source.unsplash.com/random/100x100?technology)
+<img src="https://github.com/user-attachments/assets/97b8be69-d860-4058-8cbb-e21a57b11dad" alt="VibrantCorporation" width="150" height="150" align="left">
 
 - Conceptualized and executed a groundbreaking software architecture for a multi-cloud platform, overcoming scalability challenges and achieving a 30% reduction in response times and a 40% decrease in infrastructure costs.
 - Collaborated with product managers, UX designers, and stakeholders to define and achieve project milestones for a mission-critical application, resulting in seamless deployment and enhanced user experience for over 1 million users worldwide.
 - Mentored junior team members on industry best practices, effectively increasing their productivity levels by 25% and providing strategic guidance that facilitated their career advancement within the company.
+
+<div style="clear: both;"></div>
 
 **Software Engineer (Jun 2018 – May 2020)**
 

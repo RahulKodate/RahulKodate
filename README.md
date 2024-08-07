@@ -26,21 +26,21 @@ Strategic and results-driven Technical Program Manager with over 6 years of dive
 - Spearheaded the development and implementation of a new project management methodology, resulting in a 20% decrease in project delivery times and a 15% increase in project completion rates.
 - Implemented an advanced monitoring and reporting system for software development projects, which improved transparency and accountability, leading to a 35% improvement in on-time project delivery.
 
-### Northeastern University, Residential Security Office, Boston (Aug 2023 – May 2024)
+### Northeastern University, Residential Security Office, USA (Aug 2023 – May 2024)
 **Student Residential Supervisor**
 
 - Resolved lockout scenarios in residential buildings with a 95% success rate, ensuring minimal disruptions and significantly enhancing resident satisfaction.
 - Streamlined incident documentation by meticulously maintaining dispatch logs and Excel sheets, resulting in a 40% improvement in response times to security issues.
 - Optimized document sharing and team collaboration by leveraging SharePoint, leading to a 30% increase in team efficiency and communication and fostering a more cohesive work environment.
 
-### Northeastern University, Residential Security Office, Boston (Jan 2023 – May 2024)
+### Northeastern University, Residential Security Office, USA (Jan 2023 – May 2024)
 **Student Residential Proctor**
 
 - Managed the access control system to verify resident identities and secure entry, enhancing building security and reducing unauthorized access incidents by 40%.
 - Monitored residence hall entrances and common areas vigilantly, ensuring compliance with safety protocols and successfully executing complex tasks independently, leading to a 30% decrease in security breaches.
 - Collaborated with Northeastern Police (NUPD), Residential Life, and university staff to streamline communication and response procedures, improving incident resolution times by 25% and fostering a safer campus environment.
 
-### Northeastern University, Center for Intercultural Engagement, Boston (Jan 2023 – June 2023)
+### Northeastern University, Center for Intercultural Engagement, USA (Jan 2023 – June 2023)
 **Student Program Assistant**
 
 - Promoted Northeastern University’s experiential education by developing and executing intersectional peer-to-peer programs, which fostered inclusion for marginalized students and increased program participation by 30%.

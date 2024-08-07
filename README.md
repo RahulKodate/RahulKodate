@@ -11,8 +11,7 @@
 Strategic and results-driven Technical Program Manager with over 6 years of diverse experience in software engineering, project management, and cross-functional team leadership. Proven track record of driving significant performance improvements and operational efficiencies through innovative solutions and effective project management methodologies. Adept at fostering collaboration among stakeholders, enhancing communication, and ensuring timely project delivery. Demonstrated expertise in utilizing Agile, Scrum, and Kanban methodologies to streamline processes and boost productivity. Strong technical acumen with proficiency in Java, Python, C++, cloud platforms, and various project management tools. Committed to leveraging extensive technical knowledge and leadership skills to deliver high-quality software solutions and drive organizational success.
 
 ## Certifications and Key Skills
-
-**Certifications:** JPMorgan Chase & Co. Agile Job Simulation - Forage (July 2024)  
+  
 **Tools:** Project Management Software (Trello, Asana, Jira) • Microsoft Office Suite • Collaboration Tools (Slack, Microsoft Teams, Confluence) • Version Control Systems (Git, GitHub, GitLab) • Reporting & Analytics (Tableau, Power BI)  
 **Technical Skills:** Programming Languages (Java, Python, C++) • Database Management (SQL, Node.js, MongoDB) • Web Development (HTML, CSS, JavaScript, React, TypeScript, Angular) • Cloud Platforms (AWS, Google Cloud Platform, Microsoft Azure) • APIs and Integration (RESTful APIs, GraphQL) • Continuous Integration/Continuous Deployment (Jenkins, Docker, Kubernetes) • Software Development Methodologies (Agile, Scrum, Kanban, Waterfall) • User Interface and User Experience (Figma)  
 **Soft Skills:** Strategic Thinking • Negotiation • Stakeholder Management • Conflict Resolution • Change Management • Decision-Making

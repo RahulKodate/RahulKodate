@@ -26,16 +26,12 @@ Strategic and results-driven Technical Program Manager with over 6 years of dive
 - Led a cross-functional team of 15 engineers to redesign the company's flagship product, which improved system performance by 30% and increased user satisfaction scores by 25%.
 
 
-### Northeastern University, Residential Security Office, USA 
-**Student RSO Supervisor (Aug 2023 – May 2024)** 
-
+### Northeastern University, Residential Security Office, USA                                	  	     	 
+**Student Technical Progam Coordinator RSO (Aug 2023 – May 2024)**
 - Streamlined incident documentation by meticulously maintaining dispatch logs and Excel sheets, resulting in a 40% improvement in response times to security issues.
 - Optimized document sharing and team collaboration by leveraging SharePoint, leading to a 30% increase in team efficiency and communication and fostering a more cohesive work environment.
-
-**Student RSO Proctor (Jan 2023 – May 2024)**
-
-- Managed the access control system to verify resident identities and secure entry, enhancing building security and reducing unauthorized access incidents by 40%.
 - Collaborated with Northeastern Police (NUPD), Residential Life, and university staff to streamline communication and response procedures, improving incident resolution times by 25% and fostering a safer campus environment.
+
 
 ### Vibrant Corporation, India
 **Senior Software Engineer (Jun 2020 – Aug 2022)**

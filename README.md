@@ -56,7 +56,7 @@ Strategic and results-driven Technical Program Manager with over 6 years of dive
 
 ## Academic Projects
 
-### Simulated Sprint Planning Meeting for Agile Training (Jan 2024 – May 2024)
+### [Simulated Sprint Planning Meeting for Agile Training (Jan 2024 – May 2024)](https://github.com/RahulKodate/Simulated-Sprint-Planning-Meeting-for-Agile-Training)
 - Facilitated a simulated Sprint Planning meeting by leading backlog prioritization, story point assignment, and sprint velocity assessment, resulting in a well-organized sprint plan that enhanced team alignment and readiness for execution.
 - Implemented a Kanban board to display information radiators, improving team visibility, transparency, and accountability during the sprint planning process, which led to more efficient tracking and management of tasks.
 

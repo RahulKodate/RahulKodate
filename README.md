@@ -124,6 +124,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 - Engineered a cutting-edge restaurant management system by employing advanced SQL techniques, which optimized database performance and implemented top-tier security measures.
 - Developed a robust data architecture that efficiently handled high volumes of data, streamlining restaurant operations and improving the overall dining experience.
 <br>
+<br>
 
 ### [HappinessEcon-Insights: The Economics of Happiness](https://github.com/RahulKodate/HappinessEcon-Insights)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/ba459930-c5ff-4240-9f4f-a2631a1779c0" align="left">

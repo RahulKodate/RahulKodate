@@ -102,7 +102,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 - Designed and conceptualized Twitter-like features using Figma, creating wireframes and prototypes that balanced innovation with the familiar Amazon user experience.
 - Utilized Figma to develop wireframes and prototypes for new features, ensuring a seamless integration of innovative elements while preserving the core identity of the Amazon app.
-<br><br>
+<br><br><br>
 
 ### [UniGlide Campus Mobility Solution](https://github.com/RahulKodate/UniGlide-Campus-Mobility-Solution)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/4e6922d4-a0ad-4f68-9542-2101a012a2d3" align="left">
@@ -119,7 +119,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 <br>
 
 ### [Datadine: Online Food Ordering Management System](https://github.com/RahulKodate/DATADINE)
-<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/db64594e-c9ed-48fc-bfa3-1348f592da15" align="left">
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/4f596a3c-5f40-49cf-a077-68c9cfe5588b" align="left">
 
 - Engineered a cutting-edge restaurant management system by employing advanced SQL techniques, which optimized database performance and implemented top-tier security measures.
 - Developed a robust data architecture that efficiently handled high volumes of data, streamlining restaurant operations and improving the overall dining experience.

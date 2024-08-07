@@ -96,6 +96,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 - Developed and executed a comprehensive business plan for "Apartment Finder," integrating advanced technology solutions like real-time updates, secure payment gateways, and sophisticated search filters to enhance the apartment rental process.
 - Led the design and implementation of a user-friendly platform that consolidated diverse listings, streamlined communication channels, and ensured data security, resulting in a more efficient and transparent rental experience for users.
+<br>
 
 ### [AmazonSocial: Seamless Integration of Twitter-like Features](https://github.com/RahulKodate/AmazonSocial-Seamless-Integration-of-Twitter-like-Features)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/7132117e-8249-4010-80c6-92011c547030" align="left">
@@ -103,7 +104,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 - Designed and conceptualized Twitter-like features using Figma, creating wireframes and prototypes that balanced innovation with the familiar Amazon user experience.
 - Utilized Figma to develop wireframes and prototypes for new features, ensuring a seamless integration of innovative elements while preserving the core identity of the Amazon app.
 <br><br><br>
-
+<br>
 ### [UniGlide Campus Mobility Solution](https://github.com/RahulKodate/UniGlide-Campus-Mobility-Solution)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/4e6922d4-a0ad-4f68-9542-2101a012a2d3" align="left">
 

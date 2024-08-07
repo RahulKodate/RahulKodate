@@ -3,7 +3,7 @@
 **Boston, Massachusetts**  
 [kodate.ra@northeastern.edu](mailto:kodate.ra@northeastern.edu)  
 (617) - 971-6509  
-[LinkedIn]([https://www.linkedin.com/in/rahulkodate/])
+[LinkedIn](https://www.linkedin.com/in/rahulkodate/)
 
 ---
 

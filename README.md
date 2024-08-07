@@ -71,7 +71,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 **Northeastern University, USA**  
 *Master of Science in Information Systems* (Sept 2022 – May 2024)
 
-<br><br><br><br>
+<br><br><br>
 
 <img src="https://github.com/user-attachments/assets/aeaeffce-6488-4f43-8045-8b66690d29a6" alt="Mumbai University Logo" width="250" height="120" align="left">
 

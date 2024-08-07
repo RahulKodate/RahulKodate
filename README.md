@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Ashok Kodate! 👋
 
-![Profile Banner](https://source.unsplash.com/random/1920x400?tech)  
+![Profile Banner](https://www.linkedin.com/in/rahulkodate/overlay/background-image/)  
 *Boston, Massachusetts*  
 [kodate.ra@northeastern.edu](mailto:kodate.ra@northeastern.edu) | (617) 971-6509  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulkodate-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulkodate/)

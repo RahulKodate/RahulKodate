@@ -66,9 +66,13 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 ---
 
 ## 🎓 Education
-![Northeastern University logo3](https://github.com/user-attachments/assets/9255da6d-0157-4908-b181-1facd28ee5a6) 
+<img src="https://github.com/user-attachments/assets/9255da6d-0157-4908-b181-1facd28ee5a6" alt="Northeastern University logo" width="150" height="150" align="left">
+
 **Northeastern University, USA**  
 *Master of Science in Information Systems* (Sept 2022 – May 2024)
+
+<div style="clear: both;"></div>
+
 
 ![University of Mumbai](https://source.unsplash.com/random/100x100?university)  
 **University of Mumbai, India**  

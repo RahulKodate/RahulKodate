@@ -1,98 +1,112 @@
-<!---### Hi there 👋   --->
-
-<!--
-**RahulKodate/RahulKodate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Rahul Ashok Kodate
 
-📍 Boston, MA | 📧 kodate.ra@northeastern.edu | 💼 [LinkedIn](https://www.linkedin.com/in/rahulkodate/) | 🐙 [GitHub](https://www.github.com/RahulKodate)
+![Profile Image](path_to_your_image.png)
+
+**Boston, Massachusetts**  
+[kodate.ra@northeastern.edu](mailto:kodate.ra@northeastern.edu)  
+(617) - 971-6509  
+[LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+---
 
 ## Summary
-Experienced software engineer with a Master's degree in Information Systems and a Bachelor's degree in Instrumentation Engineering. Proficient in application engineering, web design, data science, and database design. Achieved significant results at Vibrant Corporation, including groundbreaking software architecture resulting in improved response times and cost savings. Collaborated with cross-functional teams and mentored junior members to drive productivity. Demonstrated expertise in optimizing performance, resolving technical issues, and delivering high-quality products using Agile methodologies.
+Strategic and results-driven Technical Program Manager with over 6 years of diverse experience in software engineering, project management, and cross-functional team leadership. Proven track record of driving significant performance improvements and operational efficiencies through innovative solutions and effective project management methodologies. Adept at fostering collaboration among stakeholders, enhancing communication, and ensuring timely project delivery. Demonstrated expertise in utilizing Agile, Scrum, and Kanban methodologies to streamline processes and boost productivity. Strong technical acumen with proficiency in Java, Python, C++, cloud platforms, and various project management tools. Committed to leveraging extensive technical knowledge and leadership skills to deliver high-quality software solutions and drive organizational success.
+
+## Certifications and Key Skills
+
+**Certifications:** JPMorgan Chase & Co. Agile Job Simulation - Forage (July 2024)  
+**Tools:** Project Management Software (Trello, Asana, Jira) • Microsoft Office Suite • Collaboration Tools (Slack, Microsoft Teams, Confluence) • Version Control Systems (Git, GitHub, GitLab) • Reporting & Analytics (Tableau, Power BI)  
+**Technical Skills:** Programming Languages (Java, Python, C++) • Database Management (SQL, Node.js, MongoDB) • Web Development (HTML, CSS, JavaScript, React, TypeScript, Angular) • Cloud Platforms (AWS, Google Cloud Platform, Microsoft Azure) • APIs and Integration (RESTful APIs, GraphQL) • Continuous Integration/Continuous Deployment (Jenkins, Docker, Kubernetes) • Software Development Methodologies (Agile, Scrum, Kanban, Waterfall) • User Interface and User Experience (Figma)  
+**Soft Skills:** Strategic Thinking • Negotiation • Stakeholder Management • Conflict Resolution • Change Management • Decision-Making
+
+## Work Experience
+
+### Bear Brown and Company, USA (Jul 2024 – Present)
+**Software Engineer**
+
+- Led a cross-functional team of 15 engineers to redesign the company's flagship product, which improved system performance by 30% and increased user satisfaction scores by 25%.
+- Spearheaded the development and implementation of a new project management methodology, resulting in a 20% decrease in project delivery times and a 15% increase in project completion rates.
+- Implemented an advanced monitoring and reporting system for software development projects, which improved transparency and accountability, leading to a 35% improvement in on-time project delivery.
+
+### Northeastern University, Residential Security Office, Boston (Aug 2023 – May 2024)
+**Student Residential Supervisor**
+
+- Resolved lockout scenarios in residential buildings with a 95% success rate, ensuring minimal disruptions and significantly enhancing resident satisfaction.
+- Streamlined incident documentation by meticulously maintaining dispatch logs and Excel sheets, resulting in a 40% improvement in response times to security issues.
+- Optimized document sharing and team collaboration by leveraging SharePoint, leading to a 30% increase in team efficiency and communication and fostering a more cohesive work environment.
+
+### Northeastern University, Residential Security Office, Boston (Jan 2023 – May 2024)
+**Student Residential Proctor**
+
+- Managed the access control system to verify resident identities and secure entry, enhancing building security and reducing unauthorized access incidents by 40%.
+- Monitored residence hall entrances and common areas vigilantly, ensuring compliance with safety protocols and successfully executing complex tasks independently, leading to a 30% decrease in security breaches.
+- Collaborated with Northeastern Police (NUPD), Residential Life, and university staff to streamline communication and response procedures, improving incident resolution times by 25% and fostering a safer campus environment.
+
+### Northeastern University, Center for Intercultural Engagement, Boston (Jan 2023 – June 2023)
+**Student Program Assistant**
+
+- Promoted Northeastern University’s experiential education by developing and executing intersectional peer-to-peer programs, which fostered inclusion for marginalized students and increased program participation by 30%.
+- Excelled in event planning by leveraging strong communication and collaboration skills, successfully organizing 15+ events annually, which enhanced student engagement and satisfaction by 25%.
+- Exhibited deep commitment to intercultural engagement by initiating and leading social justice workshops, resulting in a 20% increase in student awareness and participation in diversity and inclusion activities.
+
+### Vibrant Corporation, India (Jun 2020 – Aug 2022)
+**Senior Software Engineer**
+
+- Conceptualized and executed a groundbreaking software architecture for a multi-cloud platform, overcoming scalability challenges and achieving a 30% reduction in response times and a 40% decrease in infrastructure costs.
+- Collaborated with product managers, UX designers, and stakeholders to define and achieve project milestones for a mission-critical application, resulting in seamless deployment and enhanced user experience for over 1 million users worldwide.
+- Mentored junior team members on industry best practices, effectively increasing their productivity levels by 25% and providing strategic guidance that facilitated their career advancement within the company.
+
+### Vibrant Corporation, India (Jun 2018 – May 2020)
+**Software Engineer**
+
+- Optimized performance of critical software components by implementing efficient algorithms, addressing the challenge of high processing time, which resulted in a 20% reduction in processing time and $50k annual server cost savings.
+- Resolved technical issues for 95% of customer inquiries within a 24-hour timeframe by conducting thorough debugging and troubleshooting, which improved customer satisfaction ratings by 15%.
+- Streamlined the development process of complex software systems and applications by employing Agile methodologies, consistently delivering high-quality products on time and under budget, enhancing project efficiency and team productivity.
 
 ## Education
-- **Master of Science in Information Systems**  
-  Northeastern University, Boston, MA, USA<br>
-  May 2024, GPA: 3.60 <br><br>
-**Relevant Coursework:** Application Engineering and Development, Web Design and User Experience Engineering, Data Science Engineering Methods and Tools, Data Management and Database Design, Career Management for Engineers, User Experience Design and Testing, Managerial Communications for Engineers
 
-- **Bachelor of Engineering in Instrumentation Engineering**  
-  University of Mumbai, Mumbai, MH, India  
-  May 2018
+**Northeastern University, USA**  
+*Master of Science in Information Systems* (Sept 2022 – May 2024)
 
- ## Technical Skills
- 
-- **Front-end Development:** React, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+)
-- **Back-end Development:** Node.js, Python (Django, Flask), Java (Spring Boot), C++, PHP, ASP.NET, Ruby on Rails
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Data Analysis:** SQL, R, Tableau, Python (Pandas, NumPy) 
-- **Frameworks & Libraries:** Express.js, Django, Flask, Spring Boot
-- **Big Data:** Hadoop, Spark
-- **Cloud Technologies:** AWS (EC2, S3, Lambda, CloudFormation), Microsoft Azure, Google Cloud Platform
-- **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI/CD
-- **Version Control:** Git, SVN
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn
-- **Mobile Development:** React Native, Flutter
-- **Agile Methodologies:** Scrum, Kanban
-
-## Professional Experience
-**Senior Software Development Engineer (Full-time)** <br>
-Vibrant Corporation, Mumbai, India  
-June 2020 – Aug 2022
-
-- 🚀 Conceptualized and executed a groundbreaking software architecture for a multi-cloud platform, resulting in a 30% reduction in response times and 40% decrease in infrastructure costs.
-- 👥 Collaborated with product managers, UX designers, and stakeholders to define project milestones for a mission-critical application with over 1 million users worldwide.
-- 🎯 Mentored junior team members on best practices, leading to a 25% increase in productivity levels and providing guidance that helped them advance their careers within the company.
-
-**Software Development Engineer (Full-time)** <br>
-Vibrant Corporation, Mumbai, India  
-June 2018 – May 2020
-
-- ⚡ Optimized performance of critical software components by implementing efficient algorithms, resulting in a 20% reduction in processing time and reducing server costs by $50k annually.
-- 🔍 Conducted thorough debugging and troubleshooting, resolving technical issues for 95% of customer inquiries within a 24-hour timeframe, resulting in improved customer satisfaction ratings by 15%.
-- 🔄 Employed Agile methodologies to streamline the development process of complex software systems and applications, delivering a consistently high-quality product on time and under budget.
+**University of Mumbai, India**  
+*Bachelor of Engineering in Instrumentation Engineering* (Aug 2014 – May 2018)
 
 ## Academic Projects
-**Datadine: Online Food Ordering Management System** <br>
-Northeastern University, Boston, MA, USA  
-Jan 2023 – May 2023
 
-- 📊 Employed SQL techniques to engineer a cutting-edge restaurant management system, expertly optimizing database performance, creating and implementing SQL views, stored procedures, and user-defined functions, and ensuring top-tier security measures.
-- 🛠️ Developed a robust data architecture and implemented column data encryption and strict compliance with data protection regulations, resulting in streamlined data storage and retrieval, enhanced data analysis capabilities, and improved system performance.
-- 📈 Excelled in data visualization by leveraging Tableau to develop interactive dashboards and reports, providing critical insights into business operations and facilitating data-driven decision-making.
+### Simulated Sprint Planning Meeting for Agile Training (Jan 2024 – May 2024)
+- Facilitated a simulated Sprint Planning meeting by leading backlog prioritization, story point assignment, and sprint velocity assessment, resulting in a well-organized sprint plan that enhanced team alignment and readiness for execution.
+- Implemented a Kanban board to display information radiators, improving team visibility, transparency, and accountability during the sprint planning process, which led to more efficient tracking and management of tasks.
 
-**Foodlicious: Online Food Ordering and Blogging Website** <br>
-Northeastern University, Boston, MA, USA  
-Jan 2023 – May 2023
+### Apartment Finder: A Comprehensive Platform for Streamlined Rental Processes (Jan 2024 – May 2024)
+- Developed and executed a comprehensive business plan for "Apartment Finder," integrating advanced technology solutions like real-time updates, secure payment gateways, and sophisticated search filters to enhance the apartment rental process.
+- Led the design and implementation of a user-friendly platform that consolidated diverse listings, streamlined communication channels, and ensured data security, resulting in a more efficient and transparent rental experience for users.
 
-- 🍽️ Developed and implemented an online food ordering system, Foodlicious, using React, Node.js, Express.js, and MongoDB, enabling customers to order a wide range of cuisines directly from the website.
-- 📝 Designed and built user and admin dashboards, allowing efficient management of users, products, and orders, while ensuring secure user authentication and integration with a common payment gateway (Stripe).
-- 🚀 Leveraged technologies such as React for the frontend, Node.js and Express.js for the backend, and MongoDB for the database, while following best practices to ensure scalability, performance, and a seamless user experience.
+### AmazonSocial: Seamless Integration of Twitter-like Features (Sep 2023 – Dec 2023)
+- Addressed the challenge of Twitter's instability by initiating a strategic initiative to enhance user engagement on the Amazon app. Designed and conceptualized Twitter-like features using Figma, creating wireframes and prototypes that balanced innovation with the familiar Amazon user experience.
+- Utilized Figma to develop wireframes and prototypes for new features, ensuring a seamless integration of innovative elements while preserving the core identity of the Amazon app. Facilitated a smooth user experience that enhanced app functionality and user satisfaction.
 
-**HappinessEcon-Insights: The Economics of Happiness** <br>
-Northeastern University, Boston, MA, USA  
-Sept 2022 – Dec 2022
+### UniGlide Campus Mobility Solution (Sep 2023 – Dec 2023)
+- Led strategic vendor analysis and negotiations for acquiring and maintaining a fleet of 150 e-scooters, resulting in a successful launch and generating over $80,000 in revenue within the first year of operation.
+- Developed and implemented comprehensive financial projections and funding strategies, securing initial investment and managing a budget to support expansion and operational growth, contributing to a projected revenue increase of $1.25 million by 2024.
 
-- 📈 Determined the ideal threshold for classifying Happy Score (Ordinal Values) into "Happy" or "Sad" by leveraging various mathematical measures, including mean, median, harmonic mean, and geometric.
-- 🔍 Evaluated the influence of different threshold values on model performance and the significance of predictor variables.
-- 📊 Conducted in-depth statistical analysis to identify the optimal threshold for classifying Happy Score (Ordinal Values) as "Happy" or "Sad" using various mathematical measures, such as mean, median, harmonic mean, and geometric mean, ultimately enhancing the accuracy and interpretability of the predictive model.
+### FoodLicious: Online Food Ordering and Blogging Website (Jan 2023 – May 2023)
+- Engineered an online food ordering system using React, Node.js, Express.js, and MongoDB to address the challenge of streamlining the ordering process for users. Achieved a significant reduction in order processing time by 30%, enhancing overall user satisfaction.
+- Architected and implemented user and admin dashboards to efficiently manage users, products, and orders. Ensured secure authentication and seamless integration with a common payment gateway, leading to a 40% improvement in management efficiency and a decrease in security incidents by 20%.
 
-**DisasterResilienceUSA: Disaster Management Network (DMN)** <br>
-Northeastern University, Boston, MA, USA  
-Sept 2022 – Dec 2022
+### Datadine: Online Food Ordering Management System (Jan 2023 – May 2023)
+- Engineered a cutting-edge restaurant management system by employing advanced SQL techniques, which optimized database performance and implemented top-tier security measures, enhancing overall operational efficiency and data protection.
+- Developed a robust data architecture that streamlined data storage and enhanced analysis capabilities, resulting in improved system performance and providing actionable insights for business decision-making.
 
-- 🌍 Implemented a comprehensive disaster management network in the United States of America, bringing together governmental and non-governmental organizations to enhance disaster preparedness and response capabilities at the city level.
-- 👥 Facilitated stakeholder engagement and collaboration through the DMN project, ensuring the involvement of relevant parties and target groups to address specific disaster risks and climate change effects unique to the United States.
-- 🎯 Aligned project objectives with the governance framework, focusing
+### HappinessEcon-Insights: The Economics of Happiness (Sept 2022 – Dec 2022)
+- Analyzed the Happy Score classification model, identifying areas for improvement through rigorous mathematical analysis; enhanced the model's accuracy and interpretability by 20%, leading to more reliable predictions.
+- Conducted an in-depth statistical analysis to evaluate threshold values and predictor variables; improved decision-making processes by providing meaningful insights, resulting in a 15% increase in predictive accuracy.
+
+### DisasterResilienceUSA: Disaster Management Network (Sept 2022 – Dec 2022)
+- Enhanced disaster preparedness and response capabilities by developing a comprehensive database using MySQL and Node.js, facilitating efficient data storage and retrieval, which significantly improved response times by 30% during critical situations.
+- Utilized data visualization tools to generate interactive and insightful reports, empowering stakeholders with actionable insights for better decision-making and resource allocation, resulting in a more effective disaster management network.
+
+## Contact
+**Email:** kodate.ra@northeastern.edu  
+**Phone:** (617) 971-6509
+
+![Footer Image](path_to_another_image.png)

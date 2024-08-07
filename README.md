@@ -20,42 +20,32 @@ Strategic and results-driven Technical Program Manager with over 6 years of dive
 ## Work Experience
 
 ### Bear Brown and Company, USA (Jul 2024 – Present)
-**Software Engineer**
+**Software Engineer and Team Lead**
 
-- Led a cross-functional team of 15 engineers to redesign the company's flagship product, which improved system performance by 30% and increased user satisfaction scores by 25%.
 - Spearheaded the development and implementation of a new project management methodology, resulting in a 20% decrease in project delivery times and a 15% increase in project completion rates.
 - Implemented an advanced monitoring and reporting system for software development projects, which improved transparency and accountability, leading to a 35% improvement in on-time project delivery.
+- Led a cross-functional team of 15 engineers to redesign the company's flagship product, which improved system performance by 30% and increased user satisfaction scores by 25%.
 
-### Northeastern University, Residential Security Office, USA (Aug 2023 – May 2024)
-**Student Residential Supervisor**
 
-- Resolved lockout scenarios in residential buildings with a 95% success rate, ensuring minimal disruptions and significantly enhancing resident satisfaction.
+### Northeastern University, Residential Security Office, USA 
+**Student RSO Supervisor (Aug 2023 – May 2024)** 
+
 - Streamlined incident documentation by meticulously maintaining dispatch logs and Excel sheets, resulting in a 40% improvement in response times to security issues.
 - Optimized document sharing and team collaboration by leveraging SharePoint, leading to a 30% increase in team efficiency and communication and fostering a more cohesive work environment.
 
-### Northeastern University, Residential Security Office, USA (Jan 2023 – May 2024)
-**Student Residential Proctor**
+**Student RSO Proctor (Jan 2023 – May 2024)**
 
 - Managed the access control system to verify resident identities and secure entry, enhancing building security and reducing unauthorized access incidents by 40%.
-- Monitored residence hall entrances and common areas vigilantly, ensuring compliance with safety protocols and successfully executing complex tasks independently, leading to a 30% decrease in security breaches.
 - Collaborated with Northeastern Police (NUPD), Residential Life, and university staff to streamline communication and response procedures, improving incident resolution times by 25% and fostering a safer campus environment.
 
-### Northeastern University, Center for Intercultural Engagement, USA (Jan 2023 – June 2023)
-**Student Program Assistant**
-
-- Promoted Northeastern University’s experiential education by developing and executing intersectional peer-to-peer programs, which fostered inclusion for marginalized students and increased program participation by 30%.
-- Excelled in event planning by leveraging strong communication and collaboration skills, successfully organizing 15+ events annually, which enhanced student engagement and satisfaction by 25%.
-- Exhibited deep commitment to intercultural engagement by initiating and leading social justice workshops, resulting in a 20% increase in student awareness and participation in diversity and inclusion activities.
-
-### Vibrant Corporation, India (Jun 2020 – Aug 2022)
-**Senior Software Engineer**
+### Vibrant Corporation, India
+**Senior Software Engineer (Jun 2020 – Aug 2022)**
 
 - Conceptualized and executed a groundbreaking software architecture for a multi-cloud platform, overcoming scalability challenges and achieving a 30% reduction in response times and a 40% decrease in infrastructure costs.
 - Collaborated with product managers, UX designers, and stakeholders to define and achieve project milestones for a mission-critical application, resulting in seamless deployment and enhanced user experience for over 1 million users worldwide.
 - Mentored junior team members on industry best practices, effectively increasing their productivity levels by 25% and providing strategic guidance that facilitated their career advancement within the company.
 
-### Vibrant Corporation, India (Jun 2018 – May 2020)
-**Software Engineer**
+**Software Engineer (Jun 2018 – May 2020)**
 
 - Optimized performance of critical software components by implementing efficient algorithms, addressing the challenge of high processing time, which resulted in a 20% reduction in processing time and $50k annual server cost savings.
 - Resolved technical issues for 95% of customer inquiries within a 24-hour timeframe by conducting thorough debugging and troubleshooting, which improved customer satisfaction ratings by 15%.
@@ -102,6 +92,11 @@ Strategic and results-driven Technical Program Manager with over 6 years of dive
 ### DisasterResilienceUSA: Disaster Management Network (Sept 2022 – Dec 2022)
 - Enhanced disaster preparedness and response capabilities by developing a comprehensive database using MySQL and Node.js, facilitating efficient data storage and retrieval, which significantly improved response times by 30% during critical situations.
 - Utilized data visualization tools to generate interactive and insightful reports, empowering stakeholders with actionable insights for better decision-making and resource allocation, resulting in a more effective disaster management network.
+
+## Leadership Experience
+
+- Orchestrated the development and execution of programs and workshops as a Student Program Assistant, achieving a 30% increase in program participation, a 25% improvement in student engagement and satisfaction, and a 20% rise in awareness and participation in diversity initiatives.
+
 
 ## Contact
 **Email:** kodate.ra@northeastern.edu  

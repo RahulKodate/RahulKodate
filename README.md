@@ -110,6 +110,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 - Led strategic vendor analysis and negotiations for acquiring and maintaining a fleet of 150 e-scooters, resulting in a successful launch and generating over $80,000 in revenue within the first year of operation.
 - Developed and implemented comprehensive financial projections and funding strategies, securing initial investment and managing a budget to support expansion and operational growth.
 <br>
+<br>
 
 ### [FoodLicious: Online Food Ordering and Blogging Website](https://github.com/RahulKodate/FoodLicious)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/0b244110-0254-49e3-9add-e1c3678234ba" align="left">

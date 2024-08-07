@@ -66,28 +66,37 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 ---
 
 ## 🎓 Education
-<img src="https://github.com/user-attachments/assets/9255da6d-0157-4908-b181-1facd28ee5a6" alt="Northeastern University logo" width="300" height="150" align="left">
+<img src="https://github.com/user-attachments/assets/9255da6d-0157-4908-b181-1facd28ee5a6" alt="Northeastern University logo" width="250" height="120" align="left">
 
 **Northeastern University, USA**  
 *Master of Science in Information Systems* (Sept 2022 – May 2024)
 
-![University of Mumbai](https://source.unsplash.com/random/100x100?university)  
+<br><br><br><br>
+
+<img src="https://github.com/user-attachments/assets/aeaeffce-6488-4f43-8045-8b66690d29a6" alt="Mumbai University Logo" width="250" height="120" align="left">
+
 **University of Mumbai, India**  
 *Bachelor of Engineering in Instrumentation Engineering* (Aug 2014 – May 2018)
+
+<br><br>
 
 ---
 
 ## 🏆 Academic Projects
 
-### [Simulated Sprint Planning Meeting for Agile Training](https://github.com/RahulKodate/Simulated-Sprint-Planning-Meeting-for-Agile-Training)
-![Agile](https://source.unsplash.com/random/100x100?agile)
+### [Simulated Sprint Planning Meeting for Agile Training](https://github.com/RahulKodate/Simulated-Sprint-Planning-Meeting-for-Agile-Training) 
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/ccd0f3bd-d563-46b2-a40c-3a4f81a8f71d" align="left">
+
 - Facilitated a simulated Sprint Planning meeting by leading backlog prioritization, story point assignment, and sprint velocity assessment, resulting in a well-organized sprint plan that enhanced team alignment and readiness for execution.
 - Implemented a Kanban board to display information radiators, improving team visibility, transparency, and accountability during the sprint planning process.
+<br>
 
 ### [Apartment Finder: A Comprehensive Platform for Streamlined Rental Processes](https://github.com/RahulKodate/Apartment-Finder-A-Comprehensive-Platform-for-Streamlined-Rental-Processes)
-![Real Estate](https://source.unsplash.com/random/100x100?real-estate)
+<img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/d8e4c63a-1ff6-417a-80c5-e2c9cad13ec3" align="left">
+
 - Developed and executed a comprehensive business plan for "Apartment Finder," integrating advanced technology solutions like real-time updates, secure payment gateways, and sophisticated search filters to enhance the apartment rental process.
 - Led the design and implementation of a user-friendly platform that consolidated diverse listings, streamlined communication channels, and ensured data security, resulting in a more efficient and transparent rental experience for users.
+
 
 ### [AmazonSocial: Seamless Integration of Twitter-like Features](https://github.com/RahulKodate/AmazonSocial-Seamless-Integration-of-Twitter-like-Features)
 ![Social Media](https://source.unsplash.com/random/100x100?social-media)

@@ -72,14 +72,14 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 ---
 
 ## 🎓 Education
-<img src="https://github.com/user-attachments/assets/9255da6d-0157-4908-b181-1facd28ee5a6" alt="Northeastern University logo" width="300" height="120" align="left">
+<img src="https://github.com/user-attachments/assets/9255da6d-0157-4908-b181-1facd28ee5a6" alt="Northeastern University logo" width="350" height="120" align="left">
 
 **Northeastern University, USA**  
 *Master of Science in Information Systems* (Sept 2022 – May 2024)
 
 <br><br><br>
 
-<img src="https://github.com/user-attachments/assets/aeaeffce-6488-4f43-8045-8b66690d29a6" alt="Mumbai University Logo" width="300" height="120" align="left">
+<img src="https://github.com/user-attachments/assets/aeaeffce-6488-4f43-8045-8b66690d29a6" alt="Mumbai University Logo" width="350" height="120" align="left">
 
 **University of Mumbai, India**  
 *Bachelor of Engineering in Instrumentation Engineering* (Aug 2014 – May 2018)
@@ -116,7 +116,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 - Led strategic vendor analysis and negotiations for acquiring and maintaining a fleet of 150 e-scooters, resulting in a successful launch and generating over $80,000 in revenue within the first year of operation.
 - Developed and implemented comprehensive financial projections and funding strategies, securing initial investment and managing a budget to support expansion and operational growth.
-<br><br>
+<br><br><br>
 
 ### [FoodLicious: Online Food Ordering and Blogging Website](https://github.com/RahulKodate/FoodLicious)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/0b244110-0254-49e3-9add-e1c3678234ba" align="left">

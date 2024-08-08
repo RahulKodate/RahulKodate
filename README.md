@@ -1,4 +1,4 @@
-# Hi, I'm Rahul Ashok Kodate! 👋
+# Hi, I'm Rahul Ashok Kodate!
 
 ![Gray Neutral Minimalist Simple Professional Manager LinkedIn Banner (4)](https://github.com/user-attachments/assets/0cdda0e6-ece1-4081-b103-a05048550c0b)
 

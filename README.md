@@ -29,7 +29,7 @@ I'm based in [Boston, Massachusetts](https://g.co/kgs/etTQ98e), where I immerse 
 ---
 
 ## 🚀 About Me
-I'm a **Strategic and Results-Driven Technical Program Manager** with over six years of experience in software engineering, project management, and cross-functional team leadership. I excel in utilizing Agile, Scrum, and Kanban methodologies to streamline processes and boost productivity. With strong technical acumen, I'm proficient in Java, Python, C++, cloud platforms, and various project management tools.
+I'm a **Strategic and Results-Driven Technical Program Manager** with over five years of experience in software engineering, project management, and cross-functional team leadership. I excel in utilizing Agile, Scrum, and Kanban methodologies to streamline processes and boost productivity. With strong technical acumen, I'm proficient in Java, Python, C++, cloud platforms, and various project management tools.
 
 ---
 

@@ -4,18 +4,31 @@
 
 <img src="https://github.com/user-attachments/assets/5c4d18f6-d136-43cc-a78e-94838adf12cb" alt="Bear Brown logo" width="500" height="150" align="right">
 
-*Based in [Boston, Massachusetts](https://g.co/kgs/etTQ98e)*  
+### Welcome to My Portfolio
 
-[![Email](https://img.shields.io/badge/Email-kodate.ra%40northeastern.edu-blue?style=flat&logo=gmail)](mailto:kodate.ra@northeastern.edu)  
+I'm based in [Boston, Massachusetts](https://g.co/kgs/etTQ98e), where I immerse myself in the world of coding, innovation, and technology. Whether you're here to explore my projects, collaborate, or just connect, welcome to my Portfolio!
 
-[![Phone](https://img.shields.io/badge/Phone-(617)%20971--6509-blue?style=flat&logo=phone)](tel:+16179716509) 
+---
+## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulkodate-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulkodate/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulkodate/">
+    <img src="https://img.shields.io/badge/LinkedIn-rahulkodate-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a> 
+  &nbsp;&nbsp; 
+  <a href="mailto:kodate.ra@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-kodate.ra%40northeastern.edu-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a> 
+  &nbsp;&nbsp;
+  <a href="tel:+16179716509">
+    <img src="https://img.shields.io/badge/Phone-(617)%20971--6509-blue?style=for-the-badge&logo=phone" alt="Phone">
+  </a>
+</p>
 
 
 ---
 
-## 🚀 Summary
+## 🚀 About Me
 I'm a **Strategic and Results-Driven Technical Program Manager** with over six years of experience in software engineering, project management, and cross-functional team leadership. I excel in utilizing Agile, Scrum, and Kanban methodologies to streamline processes and boost productivity. With strong technical acumen, I'm proficient in Java, Python, C++, cloud platforms, and various project management tools.
 
 ---

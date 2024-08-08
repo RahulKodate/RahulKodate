@@ -95,7 +95,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 - Facilitated a simulated Sprint Planning meeting by leading backlog prioritization, story point assignment, and sprint velocity assessment, resulting in a well-organized sprint plan that enhanced team alignment and readiness for execution.
 - Implemented a Kanban board to display information radiators, improving team visibility, transparency, and accountability during the sprint planning process.
-<br>
+<br><br>
 
 ### [Apartment Finder: A Comprehensive Platform for Streamlined Rental Processes](https://github.com/RahulKodate/Apartment-Finder-A-Comprehensive-Platform-for-Streamlined-Rental-Processes)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/16e249a3-b80c-4122-8d5c-ec30cf8d3167" align="left">
@@ -116,14 +116,14 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 - Led strategic vendor analysis and negotiations for acquiring and maintaining a fleet of 150 e-scooters, resulting in a successful launch and generating over $80,000 in revenue within the first year of operation.
 - Developed and implemented comprehensive financial projections and funding strategies, securing initial investment and managing a budget to support expansion and operational growth.
-<br>
+<br><br>
 
 ### [FoodLicious: Online Food Ordering and Blogging Website](https://github.com/RahulKodate/FoodLicious)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/0b244110-0254-49e3-9add-e1c3678234ba" align="left">
 
 - Engineered an online food ordering system using React, Node.js, Express.js, and MongoDB to streamline the ordering process for users. Achieved a significant reduction in order processing time by 30%, enhancing overall user satisfaction.
 - Architected and implemented user and admin dashboards to efficiently manage users, products, and orders. Ensured secure authentication and seamless integration with a common payment gateway.
-<br>
+<br><br>
 
 ### [Datadine: Online Food Ordering Management System](https://github.com/RahulKodate/DATADINE)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/4f596a3c-5f40-49cf-a077-68c9cfe5588b" align="left">
@@ -131,21 +131,21 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 - Engineered a cutting-edge restaurant management system by employing advanced SQL techniques, which optimized database performance and implemented top-tier security measures.
 - Developed a robust data architecture that efficiently handled high volumes of data, streamlining restaurant operations and improving the overall dining experience.
 <br>
-<br>
+<br><br>
 
 ### [HappinessEcon-Insights: The Economics of Happiness](https://github.com/RahulKodate/HappinessEcon-Insights)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/ba459930-c5ff-4240-9f4f-a2631a1779c0" align="left">
 
 - Spearheaded the design and implementation of a data visualization dashboard to analyze the economic impact of happiness indices. Successfully integrated multiple data sources and provided actionable insights to stakeholders.
 - Conducted in-depth research and statistical analysis, resulting in the publication of findings in a reputed journal, contributing to the academic understanding of the economics of happiness.
-<br>
+<br><br>
 
 ### [DisasterResilienceUSA: Disaster Management Network](https://github.com/RahulKodate/DisasterResilienceUSA)
 <img width="150" height="150" alt="Agile" src="https://github.com/user-attachments/assets/760df3d6-9975-449c-97ca-710afd2293cf" align="left">
 
 - Developed an innovative disaster management network by leveraging IoT and blockchain technology. Improved communication and coordination among emergency responders, reducing response time by 20%.
 - Implemented real-time data analytics and machine learning algorithms to predict disaster patterns and optimize resource allocation, enhancing overall disaster resilience.
-<br>
+<br><br>
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Ashok Kodate! 👋
 
-<link rel="icon" href="https://github.com/user-attachments/assets/cf9617fb-3501-4882-85ea-58da977fecd4" type="image/png">
+<link rel="icon" href="https://github.com/user-attachments/assets/36d9bbd1-92c8-4d95-aba5-c84b196c826f" type="image/png">
 
 ![Gray Neutral Minimalist Simple Professional Manager LinkedIn Banner (4)](https://github.com/user-attachments/assets/0cdda0e6-ece1-4081-b103-a05048550c0b)
 

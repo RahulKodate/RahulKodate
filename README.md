@@ -1,7 +1,6 @@
 # Hi, I'm Rahul Ashok Kodate! 👋
 
-![Gray Neutral Minimalist Simple Professional Manager LinkedIn Banner (3)](https://github.com/user-attachments/assets/43f2963d-28ff-4193-bd54-5638920fa18f)
-
+![Gray Neutral Minimalist Simple Professional Manager LinkedIn Banner (4)](https://github.com/user-attachments/assets/0cdda0e6-ece1-4081-b103-a05048550c0b)
 
 <img src="https://github.com/user-attachments/assets/5c4d18f6-d136-43cc-a78e-94838adf12cb" alt="Bear Brown logo" width="500" height="150" align="right">
 

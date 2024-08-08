@@ -145,7 +145,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with over six y
 
 - Developed an innovative disaster management network by leveraging IoT and blockchain technology. Improved communication and coordination among emergency responders, reducing response time by 20%.
 - Implemented real-time data analytics and machine learning algorithms to predict disaster patterns and optimize resource allocation, enhancing overall disaster resilience.
-<br><br>
+<br><br><br>
 
 ---
 

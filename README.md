@@ -16,8 +16,8 @@ I'm based in [Boston, Massachusetts](https://g.co/kgs/etTQ98e), where I immerse 
     <img src="https://img.shields.io/badge/LinkedIn-rahulkodate-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a> 
   &nbsp;&nbsp; 
-  <a href="mailto:kodate.ra@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-kodate.ra%40northeastern.edu-blue?style=for-the-badge&logo=gmail" alt="Email">
+  <a href="mailto:247rahulkodate@gmail.com">
+    <img src="https://img.shields.io/badge/Email-247rahulkodate%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a> 
   &nbsp;&nbsp;
   <a href="tel:+16179716509">

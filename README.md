@@ -48,16 +48,20 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with about 6 ye
 ## 💼 Work Experience
 
 ### Bear Brown and Company, USA (Jul 2024 – Present)
-**Software Engineer and Team Lead**  
+**Technical Associate Project Manager and Software Engineer**  
 <img src="https://github.com/user-attachments/assets/6108e809-cb1f-4e05-bc9f-be06c9f59d05" alt="Bear Brown logo" width="150" height="150" align="left">
 
-- Spearheaded the development and implementation of a new project management methodology, resulting in a 20% decrease in project delivery times and a 15% increase in project completion rates.
-- Implemented an advanced monitoring and reporting system for software development projects, which improved transparency and accountability, leading to a 35% improvement in on-time project delivery.
-- Led a cross-functional team of 15 engineers to redesign the company's flagship product, which improved system performance by 30% and increased user satisfaction scores by 25%.
+- Directed cross-functional teams of developers, designers, and testers, fostering collaboration and ensuring alignment with stakeholder objectives, leading to a 30% increase in project delivery speed and a 25% rise in user satisfaction scores.
+- Engaged stakeholders at all levels, including developers and senior leadership, to set realistic milestones and deliver timely progress reports, enhancing transparency and stakeholder satisfaction.
+- Streamlined project execution by implementing Agile, Scrum, and Kanban methodologies, improving system performance by 30% and reducing project cycle time by 25%.
+- Mitigated project risks through proactive identification and strategic adjustments, reducing potential delays and ensuring smooth project progression.
+- Provided technical leadership in Java, Python, and C++ while leveraging cloud platforms (AWS, GCP, Azure), leading to the successful deployment of scalable and robust software solutions.
+- Implemented an advanced monitoring and reporting system for software development projects, improving transparency and accountability, resulting in a 35% improvement in on-time project delivery.			   
+- Led post-project reviews and implemented continuous improvement practices, incorporating new technologies and methodologies, which enhanced team performance by 20%.
 
 ---
 
-### Northeastern University, Residential Security Office, USA (Aug 2023 – May 2024)
+### Northeastern University, USA (Aug 2023 – May 2024)
 **Student Technical Program Coordinator RSO**  
 <img src="https://github.com/user-attachments/assets/43fe4c82-c1d9-45b6-8f6e-f0f5448c67d5" alt="Northeastern University Seal" width="150" height="150" align="left">
 - Streamlined incident documentation by meticulously maintaining dispatch logs and Excel sheets, resulting in a 40% improvement in response times to security issues.

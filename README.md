@@ -47,8 +47,22 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with about 6 ye
 
 ## 💼 Work Experience
 
-### Bear Brown and Company, USA (Jul 2024 – Present)
-**Technical Associate Project Manager and Software Engineer**  
+### Abecedarian LLC, USA (Nov 2024 – Present)
+**Technical Project Manager**  
+<img src="https://github.com/user-attachments/assets/6108e809-cb1f-4e05-bc9f-be06c9f59d05" alt="Bear Brown logo" width="150" height="150" align="left">
+
+- Spearheaded the management and on-time delivery of multiple complex software projects by establishing clear timelines and priorities, resulting in a 100% on-schedule completion rate for all assigned projects
+- Led a cross-functional team of developers, designers, and stakeholders, fostering seamless collaboration and increasing project efficiency, which reduced development cycle time by 20%
+- Implemented Agile, Scrum, and Kanban methodologies to optimize project workflows and enhance team responsiveness, resulting in a 30% improvement in project turnaround time
+- Collaborated with developers and executive leadership to define and set realistic project milestones, ensuring continuous alignment with business goals; produced weekly progress reports, which improved stakeholder satisfaction and transparency
+- Provided expert guidance on Java, Python, and C++ development across AWS, GCP, and Azure platforms, leveraging these skills to drive the success of Generative AI initiatives that contributed to innovative software solutions
+- Identified potential project risks early and proactively adjusted project plans to mitigate them, minimizing delays and enhancing project resilience to unforeseen challenges
+- Conducted post-project reviews, analyzed outcomes, and incorporated new technologies to refine processes, increasing overall project quality and implementing three process improvements that streamlined operations
+- Prepared weekly progress reports to keep all stakeholders well-informed of project developments, strengthening communication and ensuring expectations were consistently met
+- Structured generative AI research and development tasks to create strategic case studies, aligning project deliverables with long-term organizational goals in AI-driven strategic analysis
+
+### Bear Brown and Company, USA (Jul 2024 – Oct 2024)
+**Associate Technical Project Manager**  
 <img src="https://github.com/user-attachments/assets/6108e809-cb1f-4e05-bc9f-be06c9f59d05" alt="Bear Brown logo" width="150" height="150" align="left">
 
 - Directed cross-functional teams of developers, designers, and testers, fostering collaboration and ensuring alignment with stakeholder objectives, leading to a 30% increase in project delivery speed and a 25% rise in user satisfaction scores.
@@ -71,7 +85,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with about 6 ye
 ---
 
 ### Vibrant Corporation, India
-**Senior Software Engineer (Jun 2020 – Aug 2022)**  
+**Software Engineer Technical Lead (Jun 2020 – Aug 2022)**  
 <img src="https://github.com/user-attachments/assets/97b8be69-d860-4058-8cbb-e21a57b11dad" alt="VibrantCorporation" width="150" height="150" align="left">
 
 - Conceptualized and executed a groundbreaking software architecture for a multi-cloud platform, overcoming scalability challenges and achieving a 30% reduction in response times and a 40% decrease in infrastructure costs.

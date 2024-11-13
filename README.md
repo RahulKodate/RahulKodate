@@ -49,7 +49,7 @@ I'm a **Strategic and Results-Driven Technical Program Manager** with about 6 ye
 
 ### Abecedarian LLC, USA (Nov 2024 – Present)
 **Technical Project Manager**  
-<img src="https://github.com/user-attachments/assets/6108e809-cb1f-4e05-bc9f-be06c9f59d05" alt="Bear Brown logo" width="150" height="150" align="left">
+<img src="https://github.com/user-attachments/assets/44e2f907-d3bf-408d-bccd-00a2d62467dc" alt="Bear Brown logo" width="150" height="150" align="left">
 
 - Spearheaded the management and on-time delivery of multiple complex software projects by establishing clear timelines and priorities, resulting in a 100% on-schedule completion rate for all assigned projects
 - Led a cross-functional team of developers, designers, and stakeholders, fostering seamless collaboration and increasing project efficiency, which reduced development cycle time by 20%

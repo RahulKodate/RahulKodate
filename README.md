@@ -1,6 +1,6 @@
-# Hi, I'm Rahul Ashok Kodate!
+# Hi, I'm Rrahul Kodate!
 
-![Gray Neutral Minimalist Simple Professional Manager LinkedIn Banner 2](https://github.com/user-attachments/assets/7c22ea30-afff-4c7b-b405-d03c289c51ed)
+![Gray Neutral Minimalist Simple Professional Manager LinkedIn Banner](https://github.com/user-attachments/assets/d894ce69-4785-4202-bff8-d7352755a97c)
 
 <img src="https://github.com/user-attachments/assets/5c4d18f6-d136-43cc-a78e-94838adf12cb" alt="Bear Brown logo" width="500" height="150" align="right">
 
@@ -18,8 +18,8 @@ I'm based in [Boston, Massachusetts](https://g.co/kgs/etTQ98e), where I combine 
     <img src="https://img.shields.io/badge/LinkedIn-rahulkodate-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a> 
   &nbsp;&nbsp; 
-  <a href="mailto:247rahulkodate@gmail.com">
-    <img src="https://img.shields.io/badge/Email-247rahulkodate%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  <a href="mailto:rrahulkodate36@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rrahulkodate36%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a> 
   &nbsp;&nbsp;
   <a href="tel:+16179716509">
@@ -83,7 +83,7 @@ Strategic Thinking · Risk Mitigation · Stakeholder Engagement · Conflict Reso
 ---
 
 ### Vibrant Corporation, Mumbai, India  
-**Technical Lead (Senior Software Engineer) (Jun 2020 – Aug 2022)**  
+**Technical Project Manager (Jun 2020 – Aug 2022)**  
 - Managed an e-commerce platform transformation program with a $5 million budget, leading 10 engineers across 20 sprints to achieve 40% revenue growth within six months through strategic planning and sprint management to meet KPIs
 - Implemented Agile transformation across 4 teams, resulting in 30% faster product delivery and 50% improved deployment velocity through training and workshops that improved team agility and stakeholder satisfaction
 - Established a project governance framework for a cloud migration initiative spanning 3 departments, reducing operational costs by 20% and achieving 35% ROI within the first year through effective KPI management and senior management reporting

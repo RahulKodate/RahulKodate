@@ -68,8 +68,7 @@ Strategic Thinking · Risk Mitigation · Stakeholder Engagement · Conflict Reso
 - Facilitated Agile ceremonies and embedded governance best practices across 5+ cross-functional teams; actions improved sprint velocity by 30%, boosted cross-team collaboration scores by 40%, and reduced delivery cycle times by 25%.
 - Led proactive risk assessments and technical planning sessions with engineering and product stakeholders; resolved 95% of dependencies before escalation and eliminated bottlenecks, ensuring 99.9% system uptime and regulatory compliance across all releases.
 - Applied advanced expertise in systems analysis, database design, and cloud technologies (AWS, Azure, GCP) to modernize infrastructure and streamline workflows; accelerated deployment of AI-driven solutions by 35%, enabling data-driven decision-making at scale.
-
-Developed comprehensive project playbooks, technical documentation, and SDLC-aligned workflows; reduced onboarding time for new team members by 40%, ensured smooth knowledge transfer, and improved long-term governance of enterprise programs.
+- Developed comprehensive project playbooks, technical documentation, and SDLC-aligned workflows; reduced onboarding time for new team members by 40%, ensured smooth knowledge transfer, and improved long-term governance of enterprise programs.
 
 ### Humanitarians AI, Boston, MA (Jul 2024 – June 2025)  
 **Technical Project Manager**

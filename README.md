@@ -62,9 +62,18 @@ Strategic Thinking · Risk Mitigation · Stakeholder Engagement · Conflict Reso
 
 ## 💼 Work Experience
 
-### Humanitarians AI, Boston, MA (Jul 2024 – Present)  
+### KGS Technology Group, Boston, MA (June 2025 – Present)  
 **Technical Project Manager**
--  Spearheaded 5 concurrent enterprise software projects with combined budgets totaling $10 million, achieving 100% on-time delivery while maintaining 20% under budget across all initiatives, enhancing efficiency and cost-effectiveness
+- Directed end-to-end execution of enterprise software and AI/ML integration programs, overseeing sprint planning, backlog prioritization, and stakeholder alignment; delivered projects 20% under budget and 15% ahead of schedule, while maintaining 100% compliance with scope and quality standards.
+- Facilitated Agile ceremonies and embedded governance best practices across 5+ cross-functional teams; actions improved sprint velocity by 30%, boosted cross-team collaboration scores by 40%, and reduced delivery cycle times by 25%.
+- Led proactive risk assessments and technical planning sessions with engineering and product stakeholders; resolved 95% of dependencies before escalation and eliminated bottlenecks, ensuring 99.9% system uptime and regulatory compliance across all releases.
+- Applied advanced expertise in systems analysis, database design, and cloud technologies (AWS, Azure, GCP) to modernize infrastructure and streamline workflows; accelerated deployment of AI-driven solutions by 35%, enabling data-driven decision-making at scale.
+
+Developed comprehensive project playbooks, technical documentation, and SDLC-aligned workflows; reduced onboarding time for new team members by 40%, ensured smooth knowledge transfer, and improved long-term governance of enterprise programs.
+
+### Humanitarians AI, Boston, MA (Jul 2024 – June 2025)  
+**Technical Project Manager**
+- Spearheaded 5 concurrent enterprise software projects with combined budgets totaling $10 million, achieving 100% on-time delivery while maintaining 20% under budget across all initiatives, enhancing efficiency and cost-effectiveness
 - Orchestrated a portfolio of 3 AI/ML integration projects across 4 business units, enhancing integration processes and speeding delivery by 25%, which established new project management standards and strengthened the technological framework
 - Led cross-functional teams of 15+ members across 3 time zones, implementing risk management frameworks that reduced project delays by 30% and improved stakeholder satisfaction by 40%, ensuring seamless project progress
 - Established PMO best practices and governance protocols for 5 distributed teams, which led to a 25% improvement in resource utilization and a 15% reduction in project bottlenecks, streamlining operations and enhancing project outcomes

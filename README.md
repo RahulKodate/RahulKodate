@@ -70,6 +70,8 @@ Strategic Thinking · Risk Mitigation · Stakeholder Engagement · Conflict Reso
 - Applied advanced expertise in systems analysis, database design, and cloud technologies (AWS, Azure, GCP) to modernize infrastructure and streamline workflows; accelerated deployment of AI-driven solutions by 35%, enabling data-driven decision-making at scale.
 - Developed comprehensive project playbooks, technical documentation, and SDLC-aligned workflows; reduced onboarding time for new team members by 40%, ensured smooth knowledge transfer, and improved long-term governance of enterprise programs.
 
+---
+
 ### Humanitarians AI, Boston, MA (Jul 2024 – June 2025)  
 **Technical Project Manager**
 - Spearheaded 5 concurrent enterprise software projects with combined budgets totaling $10 million, achieving 100% on-time delivery while maintaining 20% under budget across all initiatives, enhancing efficiency and cost-effectiveness
